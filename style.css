@@ -4,6 +4,12 @@ img {
   float: left;
   margin-right: 10px;
 }
+img:hover {
+  border-radius: 50px;
+}
 .username {
   font-weight: bold;
+}
+em {
+  color: blue;
 }
